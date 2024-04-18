@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(11, 161, 151);
+    background-image: url('44.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-color: #f8f8f8; /
+}
+   
+h1{
+    color: rgb(82, 2, 2);
+    margin-left: auto;
+    font-size: 70px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+
+
+ul{
+    font-size: x-large;
+    list-style-type:none;
+    margin: 10;
+    padding: 10px;
+    background-color: rgb(124, 188, 226);
+}
+li{
+    display: inline;
+}
+li a{
+    padding: 25px;
+}
+
+.container{
+    display: flex;
+    align-items: right;}
+
+.hasa{flex: 1;
+    font-size: xx-large;
+}
+
+#img1{
+    display: flex;
+    margin-right:50px;
+    height: 500px;
+    width: 500px;
+    border: 1px solid #5d0808;
+    border-radius: 100px;
+    padding: 5px;
+    
+}
+form{
+    font-size: x-large;
+    color:black;
+}
+#img2{
+    background-image: url('Opera .png');
+}
+
+dl{
+    font-size: xx-large;
+}
+
+table{
+    font-size: xx-large;
+    color: #000;
+    border: 2;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+
